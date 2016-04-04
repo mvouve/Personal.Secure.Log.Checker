@@ -1,1 +1,1 @@
-# COMP8006.IPS
+# Secure Log Checker
